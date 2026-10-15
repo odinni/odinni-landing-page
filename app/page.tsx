@@ -205,8 +205,7 @@ export default function HomePage() {
             />
           </div>
           <h2>
-            Escolha o plano ideal para
-            <br />a sua forma de viajar
+            Escolha o plano ideal para <br />a sua forma de viajar
           </h2>
           <div className="pricing-grid">
             <article className="plan-card">
