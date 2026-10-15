@@ -209,7 +209,7 @@ export default function HomePage() {
             <br />a sua forma de viajar
           </h2>
           <div className="pricing-grid">
-            <article className="plan-card featured">
+            <article className="plan-card">
               <h3>Essencial</h3>
               <p>
                 Roteiros e informações reunidos para viajar sem perder o foco no
@@ -230,7 +230,6 @@ export default function HomePage() {
               <a href="#footer">Assinar agora</a>
             </article>
             <article className="plan-card">
-              <span className="popular">Mais popular</span>
               <h3>Planejador</h3>
               <p>
                 Mais praticidade com links rápidos, alertas de voo e colaboração
